@@ -23,6 +23,7 @@
 		<option value="员工管理员">员工管理员</option>
 		<option value="经理管理员">经理管理员</option>
 		<option value="超级管理员">超级管理员</option>
+		<option value="超级管理员">特级管理员</option>
 	</select>
 	</td>
 	</tr>
